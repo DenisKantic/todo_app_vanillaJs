@@ -41,7 +41,7 @@ ul{
     margin-top: 40px;
 }
 
-li{
+.item{
     margin-top: 20px;
     background-color: #D9534F;
     width: 600px;
